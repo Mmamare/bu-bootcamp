@@ -1,0 +1,10 @@
+module1/Greetings.class
+module2/GradeAnalyzer.class
+module2/GradeAnalyzerTest.class
+
+module3/Contact.class
+module3/ContactManager.class
+module3/ContactTest.class
+
+ module6/swap
+ module6/hello
